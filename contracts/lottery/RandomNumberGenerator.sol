@@ -102,12 +102,4 @@ contract RandomNumberGenerator is VRFConsumerBase, IRandomNumberGenerator, Ownab
         randomResult = uint32(1000000 + (randomness % 1000000));
         latestLotteryId = IArivaLottery(arivaLottery).viewCurrentLotteryId();
     }
-
-    /**
-     * For TEST, should remove on mainnet
-     */
-    // function setResult(uint256 randomness) external onlyOwner {
-    //     randomResult = uint32(1000000 + (randomness % 1000000));
-    //     latestLotteryId = IArivaLottery(arivaLottery).viewCurrentLotteryId();
-    // }
 }

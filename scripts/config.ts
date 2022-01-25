@@ -3,7 +3,7 @@ const config = {
     token: "0x6679eb24f59dfe111864aec72b443d1da666b360",
     lockupDuration: 3 * 24 * 3600,
     tokenPerBlock: 3 * 10 ** 8,
-    startBlock: 30000,
+    startBlock: 14679676,
     staking: "0xDaEaB0D03313B0cfe5881A155C0cFaE52013F9Fa",
     treasury: "0xDaEaB0D03313B0cfe5881A155C0cFaE52013F9Fa",
     farmingTreasury: "0x02b28020a74037F6420C92827138DC51ECB0EE5b",
@@ -30,7 +30,7 @@ const config = {
   mainnet: {
     token: "0x79c7ef95ad32dcd5ecadb231568bb03df7824815",
     lockupDuration: 3 * 24 * 3600,
-    tokenPerBlock: 3 * 10 ** 18,
+    tokenPerBlock: 3 * 10 ** 8,
     startBlock: 30000,
     treasury: "0xb26B59977EED6756e73D0B3BA102780c06C54569",
     farmingTreasury: "0xDaEaB0D03313B0cfe5881A155C0cFaE52013F9Fa",
