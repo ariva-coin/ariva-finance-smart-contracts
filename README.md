@@ -18,8 +18,8 @@
 - Test LP Token: [0x98be1e214d0d3a178738adc33c4ce32b25c195ca](https://testnet.bscscan.com/address/0x98be1e214d0d3a178738adc33c4ce32b25c195ca)
 - Farming: [0xfB18FFC0A537B7cB447B498294F3125088448AD6](https://testnet.bscscan.com/address/0xfB18FFC0A537B7cB447B498294F3125088448AD6)
 - Test LINK Token: [0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06](https://testnet.bscscan.com/address/0x84b9b910527ad5c03a9ca831909e21e236ea7b06)
-- RandomNumberGenerator: [0x40d6159d23cc5ef7caaaafa2a8314367974f27df](https://testnet.bscscan.com/address/0x40d6159d23cc5ef7caaaafa2a8314367974f27df)
-- ArivaLottery: [0xa8862d600821575bf5fc294b8dc23e238d78f702](https://testnet.bscscan.com/address/0xa8862d600821575bf5fc294b8dc23e238d78f702)
+- RandomNumberGenerator: [0xB60C39DE098c5EE3e7398c36309A66b419fa6962](https://testnet.bscscan.com/address/0xB60C39DE098c5EE3e7398c36309A66b419fa6962)
+- ArivaLottery: [0x8D884a1F61C42619EFB77A24549f8F16d2e4E4Ba](https://testnet.bscscan.com/address/0x8D884a1F61C42619EFB77A24549f8F16d2e4E4Ba)
 
 # BSC Contracts
 
